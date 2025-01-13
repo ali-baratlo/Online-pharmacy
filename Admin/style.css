@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background: #004085;
+    color: #ffffff;
+    height: 50px;
+
+}
+nav h2{
+    padding: 5px;
+}
+.admin-panel{
+    height: auto;
+}
+
+.admin-panel .col-2{
+
+    padding: 15px;
+    height: 800px;
+    background: #0056b3;
+    text-decoration: none;
+}
+.admin-panel .col-10{
+    display: block;
+    text-align: end;
+    margin-top: 10px;
+}
+.admin-panel .col-10 form input ,
+.admin-panel .col-10 form textarea,
+.admin-panel .col-10 form select{
+}
+.admin-panel .col-2 .list-item a{
+    display: block;
+    text-align: right;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-right: 5px;
+    color: white;
+
+}
+
+.table td, .table th{
+    vertical-align: middle;
+    text-align: center;
+}
