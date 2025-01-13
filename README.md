@@ -1,0 +1,1 @@
+The project is an online pharmacy system with free medical consultations, built using PHP and the Laravel framework for a secure, efficient backend and MySQL for database management. The frontend uses HTML5, CSS3, JavaScript, and Bootstrap for a user-friendly, responsive design. It offers 24/7 service, secure payments, and professional advice
